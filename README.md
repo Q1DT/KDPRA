@@ -120,7 +120,7 @@ The models with trained parameters are put in the directory `` ./Best_model'``
 ## Usage
 ### ⚙ Network Architecture
 Our model is implemented in ``KDPRA.py``.
-You can run ``train.py`` to train the deep model from stratch and use the ``test.py`` to test the test datasets with the trained model.
+You can run ``train.py`` to train the deep model from stratch.
 
 
 **Model Training**
@@ -130,9 +130,3 @@ Run
 python train.py
 ``` 
 
-**Model Testing**
-
-Run 
-```
-python test.py
-``` 
