@@ -112,7 +112,7 @@ The following is the list of required libraries and programs, as well as the ver
     conda env create -f environment.yml  
 3. Activate the environment:
     ```bash
-    conda activate hotspot
+    conda activate KDPRA
 ## 🎯 Trained Models
 
 The models with trained parameters are put in the directory `` ./Model'``
