@@ -115,7 +115,7 @@ The following is the list of required libraries and programs, as well as the ver
     conda activate KDPRA
 ## 🎯 Trained Models
 
-The models with trained parameters are put in the directory `` ./Model'``
+The models with trained parameters are put in the directory `` ./Best_model'``
 
 ## Usage
 ### ⚙ Network Architecture
