@@ -30,7 +30,7 @@ Quantifying protein–RNA binding affinity is essential for understanding molecu
 To address these challenges, we propose **KDPRA**, a protein–RNA binding affinity prediction framework that integrates **dual-molecule knowledge distillation** with a **bidirectional cross-attention fusion mechanism**. Modality-specific teacher models are independently trained for proteins and RNAs, guiding the student model to learn informative structural and semantic representations under limited supervision. In parallel, a bidirectional cross-attention module explicitly models fine-grained residue-level interactions between proteins and RNAs, enabling effective cross-modal feature integration. Extensive experiments demonstrate that KDPRA consistently outperforms existing methods across multiple benchmarks. Moreover, case studies show that KDPRA produces biologically interpretable predictions and accurately estimates protein–RNA binding affinities, highlighting its practical utility.
 
 
-<img src="./overview.png" alt="Overview" width="800">
+<img src="./overview.JPG" alt="Overview" width="800">
 
 ## 🖥️ System Requirements
 
